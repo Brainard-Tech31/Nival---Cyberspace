@@ -1,0 +1,8 @@
+{
+  "name": "Nival — Cyberspace Identity",
+  "description": "Cyberspace identity experience featuring a cursor-following spotlight reveal unmasking dual armor layers, adaptive materials, and avatar gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
